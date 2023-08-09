@@ -1,0 +1,4 @@
+.history/
+node_modules/
+backend/test
+client/test
